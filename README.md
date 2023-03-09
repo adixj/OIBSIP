@@ -3,11 +3,11 @@ WEB DEVELOPMENT AND DESIGNING - Internship Projects And Tasks Of Oasis Infobyte
 
 # LANDING PAGE
 BookFreaks is a Audiobook And Ebooks Page.
-![BookFreaks](lpage.jpg)
-![Call to Action Blocks](lppagecta.jpg)
-![Genres](lppagegenre.jpg)
-![sign up block](lppagesignup.jpg)
-![Log In and Join Us](lppagelogjoin.jpg)
+![BookFreaks](T1-LANDING-PAGE/lpimages/lpage1.jpg)
+![Call to Action Blocks](T1-LANDING-PAGE/lpimages/lppagecta.jpg)
+![Genres](T1-LANDING-PAGE/lpimages/lppagegenre.jpg)
+![sign up block](T1-LANDING-PAGE/lpimages/lppagesignup.jpg)
+![Log In and Join Us](T1-LANDING-PAGE/lpimages/lppagelogjoin.jpg)
 
 [LANDING PAGE](T1-LANDING-PAGE/landingpage.html)
 
