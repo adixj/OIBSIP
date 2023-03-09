@@ -1,0 +1,237 @@
+/*For Body*/
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-image: url(../PORTFOLIO/portfoliopics/bg.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+/*HEADER*/
+header {
+	padding: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+	height: 80%; 
+	background-image: url(../PORTFOLIO/portfoliopics/headerbg.jpeg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size: cover;
+  }
+  
+.Head {
+	display: flex;
+	align-items: center;
+  }
+/*For Photograph*/ 
+  .header-image {
+	width: 800px; 
+	height: 800px;
+	margin: 20px;
+	margin-right: 20px; 
+	border-radius: 50%;
+  }
+/*For Name*/
+.Heading {
+	font-family: 'Luckiest Guy', cursive;
+	color:goldenrod;
+	font-size: 500px; 
+	margin: 0;
+  }
+  
+
+/*HORIZONTAL LINE*/
+.horizontal-line {
+  height: 30px;
+  background-color: black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+/*NAVIGATION BOX*/
+nav{
+  background-color: rgb(47, 194, 120);
+  font-family: 'Bebas Neue', cursive;
+  font-style: bold;
+  padding-block: 50px;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+nav ul li a {
+  color: #333;
+  text-decoration: none;
+  font-size:70px;
+  padding: 70px;
+}
+/*When Hovered On , it changes background and font colour*/
+nav ul li a:hover {
+  background-color: #080cd8;
+  color: #eecb08;
+}
+
+
+/*CLASS box*/  
+.box {
+	border: 30px solid black;
+	margin: 0 auto;
+	width: 80%;
+	height: auto;
+	padding: 200px;
+	background-image: url(../PORTFOLIO/portfoliopics/bg1.jpeg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	box-sizing: border-box;
+  }
+
+
+/*MAIN */
+
+main {
+	margin: 0 auto;
+	padding: 100px;
+	text-align: center;
+}
+
+section {
+	margin-bottom: 50px;
+}
+
+
+/* ABOUT ME */
+
+h3  {
+	font-size: 70px;
+	font-family: 'Bree Serif', serif;
+}
+
+p{
+	font-size: 60px;
+	font-family: 'Bree Serif', serif;
+}
+
+/*Heading For ABOUT ME SECTION*/
+#about-me h2{
+	font-size: 120px;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+
+/* EDUCATIONAL QUALIFICATION */
+#Q ul {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#Q li {
+	flex: 1;
+	margin: 10px;
+	padding: 30px;
+	background-color: #87f0c8;
+	text-align: center;
+	font-size: 70px;
+	font-family: 'Bree Serif', serif;
+}
+
+/*HEADING FOR QUALIFICATIONS SECTION*/
+#Q h2{
+	font-size: 120px;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+
+/* SKILLS */
+
+/*HEADING FOR SKILLS SECTION*/
+#skills h2{
+	font-size: 120px;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+#skills ul {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-size: 80px;
+}
+#skills li {
+	flex: 1;
+	margin: 10px;
+	padding: 50px;
+	border-radius: 20%;
+	color: blue;
+	background-color:rgb(243, 243, 109);
+	font-family: 'Bree Serif', serif;
+}
+
+
+/* PROJECTS*/
+#project ul {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#project li {
+	flex: 1;
+	margin: 10px;
+	padding: 100px;
+	text-align: center;
+}
+
+/*PROJECT IMAGES*/
+#project li img {
+	size: 400px;
+	align-items: center;
+	border-radius: 10px;
+}
+
+/*HEADING FOR PROJECT SECTION*/
+#project h2{
+	font-size: 120px;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+
+/*CONTACT ME*/
+
+/*HEADING FOR CONTACT ME SECTION*/
+#contact-me h2 {
+	font-size: 120px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#contact-me h3 {
+	font-size: 90px;
+}
+
+#contact-me h4{
+	font-size: 90px;
+	color: darkgoldenrod;
+}
+
+
+/*FOOTER*/
+footer{
+	font-family: 'Bree Serif', serif;
+}
