@@ -12,7 +12,7 @@ BookFreaks is a Audiobook And Ebooks Page.
 [LANDING PAGE](T1-LANDING-PAGE/landingpage.html)
 
 # TEMPERATURE CONVERTER
-![](..PORTFOLIO/portfoliopics/project1.jpg)
+![](PORTFOLIO/portfoliopics/project1.jpg)
 [TEMPERATURE CONVERTER](TEMPERATURE CONVERTOR/temp.html)
 
 # PORTFOLIO
